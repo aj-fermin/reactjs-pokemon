@@ -1,0 +1,22 @@
+.logo {
+  height: 150px;
+}
+
+.subtitle {
+  font-style: italic;
+  font-size: x-large;
+  color: rgb(0, 58, 112);
+}
+
+.featuredPokemon {
+  border-radius: 2px;
+  background-color: black;
+}
+
+.main-button {
+  background-color: rgb(61, 125, 202);
+}
+
+.main-page {
+  background-color: rgb(240, 240, 240);
+}
